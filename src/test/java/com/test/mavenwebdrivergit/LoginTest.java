@@ -22,7 +22,7 @@ public class LoginTest {
 	@Test
 	public void dologin() {
 		
-		driver.get("http://www.google.com");
+		driver.get("http://www.linkedin.com");
 		
 		
 	}
